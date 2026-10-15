@@ -119,4 +119,5 @@ and business insight communication.
 
 ## 👨‍💻 Author
 
-Add your name and professional profile links here.
+Nishchaya Khanna
+
