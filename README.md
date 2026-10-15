@@ -91,17 +91,6 @@ Add the tools used to build the project, such as:
 - Data Cleaning
 - Data Visualization
 
-## 📂 Repository Structure
-
-zepto-sales-analysis-650k-records/
-├── README.md
-├── dashboard/
-│   └── zepto_sales_dashboard.xlsx
-├── screenshots/
-│   └── sales_dashboard.png
-└── insights/
-    └── business_insights.md
-
 ## 🚀 How to Explore
 
 1. Clone or download this repository.
